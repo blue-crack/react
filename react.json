@@ -1,3 +1,15 @@
 {
-  "channels": []
+  "channels": [
+    {
+      "Developer": "Sula 🩷👻",
+      "Owner": "thenux",
+      "channelname": "KAAAAA",
+      "jid": "1203630029VbBj1KeG3R3ri4VfUJ0R@newsletter",
+      "invite": "0029VbBj1KeG3R3ri4VfUJ0R",
+      "forwardTo": "120363421363503978@newsletter",
+      "react": ",cnrl",
+      "Date": "2025-11-30",
+      "deleteDelay": "4000"
+    }
+  ]
 }
