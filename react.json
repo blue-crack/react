@@ -33,19 +33,6 @@
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrr",
       "Date": "2025-11-30",
-      "expireAt": "2025-12-07T12:34:52.336Z",
-      "deleteDelay": "4000"
-    },
-    {
-      "Developer": "Sula ❤️❤️",
-      "Owner": "XjwN5FvL",
-      "channelname": "Test 🖇️",
-      "jid": "120363421990520338@newsletter",
-      "invite": "0029VbBsRzd4Y9lgafVIR00P",
-      "forwardTo": "120363421363503978@newsletter",
-      "react": ".cnrh",
-      "Date": "2025-11-30",
-      "expireAt": "2025-12-07T12:34:52.336Z",
       "deleteDelay": "4000"
     }
   ]
