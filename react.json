@@ -1,27 +1,3 @@
 {
-  "channels": [
-    {
-      "Developer": "Sula 🩷👻",
-      "Owner": "thenux",
-      "channelname": "KAAAAA",
-      "jid": "1203630029VbBj1KeG3R3ri4VfUJ0R@newsletter",
-      "invite": "0029VbBj1KeG3R3ri4VfUJ0R",
-      "forwardTo": "120363421363503978@newsletter",
-      "react": "cnrl",
-      "Date": "2025-11-30",
-      "deleteDelay": "4000"
-    },
-    {
-      "Developer": "Sula ❤️❤️",
-      "Owner": "dmuApIPd",
-      "channelname": "Aluth eka",
-      "jid": "120363423228906521@newsletter",
-      "invite": "0029VbCFMojElagwcU2uvc1L",
-      "forwardTo": "120363421363503978@newsletter",
-      "react": ".cnrk",
-      "Date": "2025-11-30",
-      "expireAt": "2025-12-07T07:22:31.389Z",
-      "deleteDelay": "4000"
-    }
-  ]
+  "channels": []
 }
