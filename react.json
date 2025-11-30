@@ -1,3 +1,16 @@
 {
-  "channels": []
+  "channels": [
+    {
+      "Developer": "Sula ❤️❤️",
+      "Owner": "dmuApIPd",
+      "channelname": "Thenux",
+      "jid": "120363420264542003@newsletter",
+      "invite": "0029VbAhhv23LdQVriQZSE25",
+      "forwardTo": "120363421363503978@newsletter",
+      "react": ".cnrl",
+      "Date": "2025-11-30",
+      "expireAt": "2025-12-07T09:30:15.067Z",
+      "deleteDelay": "4000"
+    }
+  ]
 }
