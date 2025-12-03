@@ -495,6 +495,30 @@
       "Date": "2025-11-30",
       "expireAt": "2025-12-07T17:20:41.929Z",
       "deleteDelay": "4000"
+    },
+    {
+      "Developer": "Sula ❤️❤️",
+      "Owner": "zkRvHIyynycGIv4JUMvEfiMgHtG2",
+      "channelname": "Ane hutho",
+      "jid": "120363402770793970@newsletter",
+      "invite": "0029VbC9YvwJf05m4lyrfM3U",
+      "forwardTo": "120363421363503978@newsletter",
+      "react": ".cnrh",
+      "Date": "2025-12-03",
+      "expireAt": "2025-12-10T11:14:42.306Z",
+      "deleteDelay": "4000"
+    },
+    {
+      "Developer": "Sula ❤️❤️",
+      "Owner": "Nn9yMFzC",
+      "channelname": "𝐌ᴜꜱɪᴄ 𝐇ᴜ𝐛 💙✨",
+      "jid": "120363405207332457@newsletter",
+      "invite": "0029Vb7B6cd05MUhyPQRVR04",
+      "forwardTo": "120363421363503978@newsletter",
+      "react": ".cnrh",
+      "Date": "2025-12-03",
+      "expireAt": "2025-12-17T12:36:15.756Z",
+      "deleteDelay": "4000"
     }
   ]
 }
