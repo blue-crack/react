@@ -381,18 +381,6 @@
     {
       "Developer": "Sula ❤️❤️",
       "Owner": "dmuApIPd",
-      "channelname": "Aluth eka",
-      "jid": "120363423228906521@newsletter",
-      "invite": "0029VbCFMojElagwcU2uvc1L",
-      "forwardTo": "120363405459268369@newsletter",
-      "react": ".cnrf",
-      "Date": "2025-11-30",
-      "expireAt": "2025-12-07T12:34:52.336Z",
-      "deleteDelay": "4000"
-    },
-    {
-      "Developer": "Sula ❤️❤️",
-      "Owner": "dmuApIPd",
       "channelname": "Tes react",
       "jid": "120363423200292749@newsletter",
       "invite": "0029Vb7Ma6S4IBhBlpFgn60s",
@@ -412,6 +400,18 @@
       "react": ".cnrh",
       "Date": "2025-11-30",
       "expireAt": "2025-12-07T16:51:22.384Z",
+      "deleteDelay": "4000"
+    },
+    {
+      "Developer": "Sula ❤️❤️",
+      "Owner": "dmuApIPd",
+      "channelname": "AR 🧘‍♂️",
+      "jid": "120363405650319324@newsletter",
+      "invite": "0029VbCCspp4IBhLuynYXU2r",
+      "forwardTo": "120363405459268369@newsletter",
+      "react": ".cnrj",
+      "Date": "2025-11-30",
+      "expireAt": "2025-12-07T16:59:08.211Z",
       "deleteDelay": "4000"
     },
     {
