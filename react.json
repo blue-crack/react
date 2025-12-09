@@ -1,6 +1,19 @@
 {
   "channels": [
     {
+      "Developer": "Sula ❤️❤️",
+      "coder": "Thenux",
+      "Owner": "SULA",
+      "channelname": "Sula Md Wa Bot </>",
+      "jid": "120363421363503978@newsletter",
+      "invite": "0029Vb7GtMHAInPngEYONu0g",
+      "forwardTo": "120363405459268369@newsletter",
+      "react": ".cnrh",
+      "Date": "",
+      "expireAt": "",
+      "deleteDelay": "4000"
+    },
+    {
       "Developer": "Suhas💚💚",
       "Owner": "suhasge",
       "channelname": "යකඩ හීන",
@@ -256,6 +269,45 @@
       "expireAt": "",
       "deleteDelay": "4000"
     },
+    {
+      "Developer": "Sula ❤️❤️",
+      "coder": "Thenux",
+      "Owner": "Nn9yMFzC",
+      "channelname": "NENO TECH ៚꧂",
+      "jid": "120363401225837204@newsletter",
+      "invite": "0029Vb6BQQmFnSz7bmxefu40",
+      "forwardTo": "120363405459268369@newsletter",
+      "react": ".cnrh",
+      "Date": "",
+      "expireAt": "",
+      "deleteDelay": "4000"
+    },
+    {
+      "Developer": "Sula ❤️❤️",
+      "coder": "Thenux",
+      "Owner": "Nn9yMFzC",
+      "channelname": "💜𝗖𝗛𝗔𝗠𝗔 𝗢𝗙𝗖💙",
+      "jid": "120363402094635383@newsletter",
+      "invite": "0029Vb6UR8S8fewn0otjcc0g",
+      "forwardTo": "120363405459268369@newsletter",
+      "react": ".cnrh",
+      "Date": "",
+      "expireAt": "",
+      "deleteDelay": "4000"
+    },
+    {
+      "Developer": "Sula ❤️❤️",
+      "coder": "Thenux",
+      "Owner": "Nn9yMFzC",
+      "channelname": "𝐀𝐧𝐠𝐥𝐞'𝐬  𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬 👨‍💻",
+      "jid": "120363420152355428@newsletter",
+      "invite": "0029VbAqdS842DceLEAK4v3W",
+      "forwardTo": "120363405459268369@newsletter",
+      "react": ".cnrh",
+      "Date": "",
+      "expireAt": "",
+      "deleteDelay": "4000"
+    }
     {
       "Developer": "Sula❤️❤️",
       "Owner": "MANUL",
@@ -644,58 +696,6 @@
       "react": ".cnrh",
       "Date": "2025-12-09",
       "expireAt": "2025-12-16T03:08:40.186Z",
-      "deleteDelay": "4000"
-    },
-    {
-      "Developer": "Sula ❤️❤️",
-      "coder": "Thenux",
-      "Owner": "Nn9yMFzC",
-      "channelname": "Sula Md Wa Bot </>",
-      "jid": "120363421363503978@newsletter",
-      "invite": "0029Vb7GtMHAInPngEYONu0g",
-      "forwardTo": "120363405459268369@newsletter",
-      "react": ".cnrh",
-      "Date": "2025-12-09",
-      "expireAt": "2025-12-16T06:08:02.411Z",
-      "deleteDelay": "4000"
-    },
-    {
-      "Developer": "Sula ❤️❤️",
-      "coder": "Thenux",
-      "Owner": "Nn9yMFzC",
-      "channelname": "NENO TECH ៚꧂",
-      "jid": "120363401225837204@newsletter",
-      "invite": "0029Vb6BQQmFnSz7bmxefu40",
-      "forwardTo": "120363405459268369@newsletter",
-      "react": ".cnrh",
-      "Date": "2025-12-09",
-      "expireAt": "2025-12-16T06:16:30.750Z",
-      "deleteDelay": "4000"
-    },
-    {
-      "Developer": "Sula ❤️❤️",
-      "coder": "Thenux",
-      "Owner": "Nn9yMFzC",
-      "channelname": "💜𝗖𝗛𝗔𝗠𝗔 𝗢𝗙𝗖💙",
-      "jid": "120363402094635383@newsletter",
-      "invite": "0029Vb6UR8S8fewn0otjcc0g",
-      "forwardTo": "120363405459268369@newsletter",
-      "react": ".cnrh",
-      "Date": "2025-12-09",
-      "expireAt": "2025-12-16T06:20:36.722Z",
-      "deleteDelay": "4000"
-    },
-    {
-      "Developer": "Sula ❤️❤️",
-      "coder": "Thenux",
-      "Owner": "Nn9yMFzC",
-      "channelname": "𝐀𝐧𝐠𝐥𝐞'𝐬  𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬 👨‍💻",
-      "jid": "120363420152355428@newsletter",
-      "invite": "0029VbAqdS842DceLEAK4v3W",
-      "forwardTo": "120363405459268369@newsletter",
-      "react": ".cnrh",
-      "Date": "2025-12-09",
-      "expireAt": "2025-12-16T07:39:03.917Z",
       "deleteDelay": "4000"
     }
   ]
