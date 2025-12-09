@@ -165,7 +165,7 @@
       "Date": "",
       "deleteDelay": "4000"
     },
-        {
+    {
       "Developer": "Sula ❤️❤️",
       "coder": "Thenux",
       "Owner": "Nn9yMFzC",
@@ -618,6 +618,19 @@
       "react": ".cnrh",
       "Date": "2025-12-09",
       "expireAt": "2025-12-16T03:08:40.186Z",
+      "deleteDelay": "4000"
+    },
+    {
+      "Developer": "Sula ❤️❤️",
+      "coder": "Thenux",
+      "Owner": "Nn9yMFzC",
+      "channelname": "💜𝗖𝗛𝗔𝗠𝗔 𝗢𝗙𝗖💙",
+      "jid": "120363402094635383@newsletter",
+      "invite": "0029Vb6UR8S8fewn0otjcc0g",
+      "forwardTo": "120363405459268369@newsletter",
+      "react": ".cnrh",
+      "Date": "2025-12-09",
+      "expireAt": "2025-12-16T05:52:58.473Z",
       "deleteDelay": "4000"
     }
   ]
