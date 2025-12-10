@@ -391,18 +391,6 @@
     },
     {
       "Developer": "Sula❤️❤️",
-      "Owner": "94757446775",
-      "channelname": "ආත්මී අක්කා official🧚‍♂️🤍",
-      "jid": "120363419726497796@newsletter",
-      "invite": "0029VbBUa9K2v1Ixn4wrNF3o",
-      "forwardTo": "120363405459268369@newsletter",
-      "react": ".cnrl",
-      "expireAt": "2025-12-12T06:30:00.000Z",
-      "Date": "2025-12-12",
-      "deleteDelay": "4000"
-    },
-    {
-      "Developer": "Sula❤️❤️",
       "Owner": "Ayesh malli f",
       "channelname": "🫟සෝශල් මීඩියා ආතල් || 🇱🇰",
       "jid": "120363351784308440@newsletter",
@@ -732,9 +720,21 @@
       "jid": "120363421930535210@newsletter",
       "invite": "0029VbBSOSj2Jl8Nx1u7TI1U",
       "forwardTo": "120363405459268369@newsletter",
-      "react": ".cnrsv",
+      "react": ".cnrst",
       "Date": "2025-12-10",
       "expireAt": "2026-01-09T15:29:28.667Z",
+      "deleteDelay": "4000"
+    },
+    {
+      "Developer": "Sula❤️❤️",
+      "Owner": "94757446775",
+      "channelname": "ආත්මී අක්කා official🧚‍♂️🤍",
+      "jid": "120363419726497796@newsletter",
+      "invite": "0029VbBUa9K2v1Ixn4wrNF3o",
+      "forwardTo": "120363405459268369@newsletter",
+      "react": ".cnrr",
+      "expireAt": "2025-01-09T06:30:00.000Z",
+      "Date": "2025-12-09",
       "deleteDelay": "4000"
     }
   ]
